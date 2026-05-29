@@ -1,0 +1,4 @@
+baseURL = 'https://jackypollino.github.io/'
+languageCode = 'en-us'
+title = "Jacky's Party Countdown"
+publishDir = "docs"
